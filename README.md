@@ -34,6 +34,8 @@ O presente projeto Habits foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app que auxilia as pessoas a rastrear e melhorar os seus hábitos diários.
 
+- [Visite o projeto online](jenibossak.github.io/habitosjeni/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
